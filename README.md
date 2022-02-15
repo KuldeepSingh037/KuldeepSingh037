@@ -46,10 +46,9 @@
 <a href="https://github.com/KuldeepSingh037"><img src="https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/KuldeepSingh037" /></a>
 <a href="https://github.com/KuldeepSingh037"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /></a>
 
-
-<h3 align="center">My GitHub Stats</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=KuldeepSingh037&label=Profile%20views&color=0e75b6&style=flat" alt="kd" /></p>
-<span>
+<h3 align="center">My GitHub Stats</h3>
+<span align="center" width:800px>
   <img height="350cm" width="400xm" src="https://github-readme-stats.vercel.app/api?username=KuldeepSingh037&theme=dark&show_icons=true" alt="KuldeepSingh037 :: Stats" />
   <img height="350em" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepSingh037&langs_count=8&theme=tokyonight&layout=compact" alt="KuldeepSingh037 :: Top Langs" />
 </span>
