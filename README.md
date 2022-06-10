@@ -13,6 +13,7 @@
 
 
 ### Connect with me :
+[<img align="left" alt="ks | gfg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][gfg]
 [<img align="left" alt="ks | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="kd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -54,6 +55,7 @@
 <!-- </span> -->
 
 
+[gfg]: https://auth.geeksforgeeks.org/user/kuldeepsingh037/practice
 [twitter]: https://twitter.com/KuldeepSingh037
 [instagram]: https://www.instagram.com/KuldeepSingh037
 [linkedin]: https://www.linkedin.com/in/kuldeepsingh037
