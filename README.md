@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other enthusiasts.
 - :mailbox: Reach me at : 2019083@iiitdmj.ac.in
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
 
 
