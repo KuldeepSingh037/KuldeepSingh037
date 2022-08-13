@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Kuldeep Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>I'm a Junior Undergrad at <b>IIIT Jabalpur</b> || Web Developer || Competetive Programmer || Music Lover ||</h3>
 
-- :heart: I love math, programming, web developement, and music.
+- :heart: I love math, programming, developement, and music.
 - 🌱 I’m addicted to learning and growing every day.
-- :speaking_head: Ask me about: Django, React, C++
+- :speaking_head: Ask me about: Programming, C++, Django, React
 - :robot: Currently learning everything.
 - 👯 I’m looking to collaborate with other enthusiasts.
 - :mailbox: Reach me at : 2019083@iiitdmj.ac.in
