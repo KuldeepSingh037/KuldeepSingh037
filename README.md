@@ -20,7 +20,7 @@
 [<img align="left" alt="kd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </br>
 
-### Know more about me at my <b style="color: blue; font-size: 20px"><a href="https://kuldeepsingh037.herokuapp.com">Portfolio</a></b>.
+### Know more about me at my <b style="color: blue; font-size: 20px"><a href="https://kuldeepsingh037.netlify.app/">Portfolio</a></b>.
 
 ### Tools and Languages :
 
