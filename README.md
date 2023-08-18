@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Kuldeep Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>I'm a Junior Undergrad at <b>IIIT Jabalpur</b> || Web Developer || Competetive Programmer || Music Lover ||</h3>
+<h3>I'm a EX-SDE Intern @Amazon, B.Tech Graduate from <b>IIIT Jabalpur</b> || Developer || Competetive Programmer || Music Lover ||</h3>
 
 - :heart: I love math, programming, developement, and music.
 - 🌱 I’m addicted to learning and growing every day.
