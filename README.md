@@ -3,10 +3,10 @@
 
 - :heart: I love math, programming, developement, and music.
 - 🌱 I’m addicted to learning and growing every day.
-- :speaking_head: Ask me about: Programming, C++, Django, React
+- :speaking_head: Ask me about: Programming, Java, C++, Django, React.
 - :robot: Currently learning everything.
 - 👯 I’m looking to collaborate with other enthusiasts.
-- :mailbox: Reach me at : 2019083@iiitdmj.ac.in
+- :mailbox: Reach me at : gahlotkuldeep037@gmail.com
 
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
